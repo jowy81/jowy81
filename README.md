@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Joel
 
-**Systems Architect | DevOps | Infrastructure | Web3**
+[![Systems Architect](https://img.shields.io/badge/Systems_Architect-1e293b?style=flat-square)] [![DevOps](https://img.shields.io/badge/DevOps-334155?style=flat-square)] [![Infrastructure](https://img.shields.io/badge/Infrastructure-475569?style=flat-square)] [![Web3](https://img.shields.io/badge/Web3-0f172a?style=flat-square)] [![Security](https://img.shields.io/badge/Security-1e3a8a?style=flat-square)] [![Automation](https://img.shields.io/badge/Automation-334155?style=flat-square)]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Domenech-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joel-domenech/) [![Project inquiry](https://img.shields.io/badge/Project_Inquiry-Tally-6366f1?style=flat-square)](https://tally.so/r/7R4d2A)
 
 I design and build scalable, resilient and secure systems — from small environments to infrastructures with hundreds of thousands of users.
 
@@ -20,6 +22,12 @@ I don’t just design systems — I solve problems.
 ## 🚀 Selected Work
 Production systems used in real environments.
 
+### 🔹 PinArkive  
+Distributed storage platform based on IPFS clusters  
+→ https://github.com/jowy81/pinarkive-overview  
+
+---
+
 ### 🔹 0xVera Trace  
 Modular SaaS platform for logistics and traceability  
 → https://github.com/jowy81/0xvera-trace-overview  
@@ -29,12 +37,6 @@ Modular SaaS platform for logistics and traceability
 ### 🔹 RMM System  
 Production-ready remote monitoring and management for Linux  
 → https://github.com/jowy81/rmm-system-overview  
-
----
-
-### 🔹 PinArkive  
-Distributed storage platform based on IPFS clusters  
-→ https://github.com/jowy81/pinarkive-overview  
 
 ---
 
@@ -123,7 +125,5 @@ No overengineering. No unnecessary complexity. Just systems that work.
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/joel-domenech/
-
-For serious inquiries (infrastructure, automation, systems):
-👉 https://tally.so/r/7R4d2A
+- [LinkedIn](https://www.linkedin.com/in/joel-domenech/)
+- [Project inquiry (Tally)](https://tally.so/r/7R4d2A) — infrastructure, automation, systems
