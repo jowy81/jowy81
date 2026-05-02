@@ -2,7 +2,7 @@
 
 **Systems Architect | DevOps | Infrastructure | Web3**
 
-I build scalable, resilient and secure systems — from small environments to large-scale infrastructures.
+I design and build scalable, resilient and secure systems — from small environments to infrastructures with hundreds of thousands of users.
 
 ---
 
@@ -18,6 +18,7 @@ I don’t just design systems — I solve problems.
 ---
 
 ## 🚀 Selected Work
+Production systems used in real environments.
 
 ### 🔹 0xVera Trace  
 Modular SaaS platform for logistics and traceability  
@@ -91,6 +92,13 @@ Secondary activity.
 
 No design. No fluff.  
 I build systems that work.
+
+---
+
+## 🧩 Approach
+
+I focus on execution, reliability and long-term maintainability.  
+No overengineering. No unnecessary complexity. Just systems that work.
 
 ---
 
