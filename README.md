@@ -50,12 +50,31 @@ Hybrid exchange infrastructure running on mainnet
 
 ---
 
-## ⚙️ Stack
+## ⚙️ Stack & Domains
 
-TypeScript · Python · Bash  
-Docker · Swarm · Proxmox · Hybrid infra  
-Web3 (Solidity, Rust, Plutus)  
-Monitoring · Security · Distributed systems  
+**Systems & Infrastructure**  
+Linux · Windows Server · Virtualization (Proxmox, Hyper-V, VMware ESX) · On-premise · Hybrid infra · Networking · DHCP · Active Directory  
+
+**DevOps & Automation**  
+Docker · Docker Swarm · Compose · Bash · PowerShell · CI/CD · n8n · Automation workflows · System orchestration  
+
+**Monitoring & Operations**  
+RMM · Remote execution · Incident reduction · Self-healing systems · Alerting · Infrastructure monitoring  
+
+**Security & Email**  
+System hardening · Fail2ban · Access control · Attack surface reduction · DMARC · Email security · TLS-RPT · BIMI  
+
+**Backend & Product Engineering**  
+TypeScript · Node.js · Python · Go · Express · NestJS · Django · REST APIs · OpenAPI · PostgreSQL · MongoDB · Redis  
+
+**Frontend & Apps**  
+React · Vite · Nuxt · Android  
+
+**Web3 & Distributed Systems**  
+Solidity · Rust · Plutus · EVM · non-EVM chains · dApps · Smart contracts · IPFS · IPFS Cluster · Mainnet systems  
+
+**Business & Leadership**  
+Project management · Team leadership · Technical decision-making · Product execution · Client infrastructure design 
 
 ---
 
